@@ -1,0 +1,15 @@
+# Data and Output 
+data/ 
+output/ 
+*.png 
+*.jpg 
+*.jpeg 
+*.tif 
+*.tiff 
+# Python/Jupyter internals 
+__pycache__/ 
+.ipynb_checkpoints/ 
+.virtual_documents/ 
+# System files 
+.DS_Store 
+Thumbs.db 
